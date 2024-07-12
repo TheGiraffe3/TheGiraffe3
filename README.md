@@ -1,7 +1,7 @@
 ## Hello!
 
 - I'm currently working on a project for [Endless Sky](https://endless-sky.github.io), to add an alien species.
-- I'm looking for help with the alien species, called the Jibauni.
+- I'm looking for help with the alien species, called the [Jibauni](https://github.com/TheGiraffe3/Jibauni).
 - I like playing [BZFlag](https://bzflag.org).
 
 <!--
