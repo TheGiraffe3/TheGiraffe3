@@ -1,4 +1,4 @@
-## Hello!
+## Hello! 
 
 - I'm currently working on a species project for [Endless Sky](https://endless-sky.github.io).
 - I'm looking for help with this species, who are called the [Jibauni](https://github.com/TheGiraffe3/Jibauni).
