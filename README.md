@@ -4,13 +4,21 @@
 - I'm looking for help with this species, who are called the [Jibauni](https://github.com/TheGiraffe3/Jibauni).
 - I like playing [BZFlag](https://bzflag.org).
 
-![TheGiraffe3's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe3&show_icons=true&theme=holi&rank_icon=github)
-
 <!--
+![TheGiraffe3's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe3&show_icons=true&theme=holi&rank_icon=github)
+-->
+
+#<!--
 
 ## My Stats:
 
-[![TheGiraffe3 GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe3)](https://github.com/TheGiraffe3/github-readme-stats)
+![TheGiraffe3 GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe3)
+
+#-->
+
+<!--
+](https://github.com/TheGiraffe3/github-readme-stats)
+-->
 
 -->
 
