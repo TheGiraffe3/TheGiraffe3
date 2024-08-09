@@ -8,18 +8,16 @@
 ![TheGiraffe3's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe3&show_icons=true&theme=holi&rank_icon=github)
 -->
 
-#<!--
+<!--
 
 ## My Stats:
 
 ![TheGiraffe3 GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGiraffe3)
 
-#-->
+-->
 
 <!--
 ](https://github.com/TheGiraffe3/github-readme-stats)
--->
-
 -->
 
 <!--
