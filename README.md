@@ -1,6 +1,6 @@
 ## Hello!
 
-- I'm currently working on a species project for [Endless Sky](https://endless-sky.github.io).
+- I'm currently working on a species project for [Endless Sky](https://github.com/endless-sky/endless-sky).
 - I'm looking for help with this species, who are called the [Jibauni](https://github.com/TheGiraffe3/Jibauni).
 - I like playing [BZFlag](https://bzflag.org).
 
