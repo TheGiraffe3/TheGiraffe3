@@ -10,6 +10,8 @@
 
 <a href="http://www.github.com/TheGiraffe3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheGiraffe3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<img alt="Snake eating contributions." src="https://raw.githubusercontent.com/TheGiraffe3/TheGiraffe3/refs/heads/test/snake/github-contribution-grid-snake.gif" />
+
 <!--
 
 Here are some ideas to get you started:
