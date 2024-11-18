@@ -32,8 +32,8 @@ jobs:
 
       - name: Change commit author info
         run: |
-          git config --local user.name "GitHub Actions"
+          git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Automated commit: Update snake info"
+          git commit -m "Automated commit: update snake info"
           git push
