@@ -1,8 +1,7 @@
 ## Hello!
 
-- I'm currently working on a species project for [Endless Sky](https://github.com/endless-sky/endless-sky).
-- Feel free to look at my current progress on this species, who are called the [Jibauni](https://github.com/TheGiraffe3/Jibauni).
-- I like playing [BZFlag](https://bzflag.org).
+- I review content pull requests for the video game [Endless Sky](https://github.com/endless-sky/endless-sky).
+- I also help out some with other projects, such as [BZFlag](https://bzflag.org) or [OpenFront](https://openfront.io).
 
 ## My Stats
 
