@@ -1,6 +1,7 @@
 ## Hello!
 
-I review content pull requests for the video game [Endless Sky](https://github.com/endless-sky/endless-sky).
+I review content pull requests for the video game [Endless Sky](https://github.com/endless-sky/endless-sky).<br>
+
 I have also helped some with other projects, such as [BZFlag](https://bzflag.org) and [OpenFront.io](https://openfront.io).
 
 ## My Stats
