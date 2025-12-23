@@ -2,7 +2,9 @@
 
 I review content pull requests for the video game [Endless Sky](https://github.com/endless-sky/endless-sky).<br>
 
-I have also contributed to some other projects, such as [BZFlag](https://bzflag.org) and [OpenFront.io](https://openfront.io).
+I have also contributed to some other projects, mostly [BZFlag](https://bzflag.org) and [OpenFront.io](https://openfront.io).
+
+I haven't had a lot of time lately, so I'm not quite as active as I used to be.
 
 ## My Stats
 
